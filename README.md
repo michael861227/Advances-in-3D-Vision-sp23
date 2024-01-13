@@ -6,6 +6,10 @@ This repository is dedicated to the programming assignment for the Advances 3D V
 
 See more [Advances in 3D Vision](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=111&Sem=2&CrsNo=535521&lang=zh-tw) course information
 
+[Final Report](https://github.com/michael861227/Advances-in-3D-Vision-sp23/blob/master/Advances%20in%203D%20vision%20-%20Final%20Report.pdf)
+
+[Final Slide](https://github.com/michael861227/Advances-in-3D-Vision-sp23/blob/master/Advances%20in%203D%20vision%20-%20Final%20Presentation.pdf)
+
 <BR>
 
 ## Lecture
