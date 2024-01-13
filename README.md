@@ -31,3 +31,11 @@ See more [Advances in 3D Vision](https://timetable.nycu.edu.tw/?r=main/crsoutlin
 | :-----------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 |            HW1            |                       **_Single View to 3D_**                        |            :link: [Link](https://github.com/michael861227/3DV-HW1)             |
 | Reproducibility Challenge | **_Learning to Render Novel Views from Wide-Baseline Stereo Pairs_** | :link: [Link](https://github.com/yilundu/cross_attention_renderer/tree/master) |
+
+<BR>
+
+## Usage
+
+```shell
+$ git clone --recurse-submodules git@github.com:michael861227/Advances-in-3D-Vision-sp23.git
+```
